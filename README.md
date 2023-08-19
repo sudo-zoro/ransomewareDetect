@@ -40,6 +40,9 @@ The project is based on detection of encryption ransomware. Using the python and
 
 ![05](https://github.com/sudo-zoro/ransomewareDetect/assets/85948202/3ecdf494-2de2-4c43-a37f-6fbb45d9e222)
 
+***The above output shows the detection of the ransomware file and its path with the possible key it is using to encrypt the files***
+
+**Project can be imporved by adding more possible rules to yara and regexp match to find the key**
 
 
 
