@@ -12,16 +12,18 @@ The project is based on detection of encryption ransomware. Using the python and
 
 ## :orange_book: Application Functionality 
 **MONITOR**
+
 ``The path to the directory is set and monitor button initiates the detection module and all the activity will be shown in File operations and Detection modules.``
 
-**DELET**
+**DELETE**
+
 ``Once the malicious file is detected in the directory, seting the path of that file and with the press of delete button the malicious file will be deleted``
 
 
 ## :art: Output
 **Attack Simulation**
 
-![atk1](ss/01.png)
+![atk1](https://github.com/sudo-zoro/ransomewareDetect/blob/main/ss/01.png)
 ***Here the malicious code is executed and can be seen the content inside the files are all encrypted in the output of cat command***
 
 ![atk2]()
