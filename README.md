@@ -19,9 +19,20 @@ The project is based on detection of encryption ransomware. Using the python and
 
 
 ## :art: Output
-**Home**
+**Attack Simulation**
 
-![Home]()
+![atk1]()
+***Here the malicious code is executed and can be seen the content inside the files are all encrypted in the output of cat command***
+
+![atk2]()
+***Just show casing the with proper key the decryption of all the files***
+
+
+**Detection**
+
+![detct1]()
+![detct2]()
+![detct2]()
 
 
 
