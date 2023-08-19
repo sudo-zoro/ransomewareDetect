@@ -23,18 +23,23 @@ The project is based on detection of encryption ransomware. Using the python and
 ## :art: Output
 **Attack Simulation**
 
-![atk1](https://github.com/sudo-zoro/ransomewareDetect/blob/main/ss/01.png)
+![01](https://github.com/sudo-zoro/ransomewareDetect/assets/85948202/6362f6d4-3c75-4bd9-b532-9fd165b3f890)
+
 ***Here the malicious code is executed and can be seen the content inside the files are all encrypted in the output of cat command***
 
-![atk2]()
+![02](https://github.com/sudo-zoro/ransomewareDetect/assets/85948202/b1fa7372-57ea-4eba-afbe-2fd76fdc5efb)
+
 ***Just show casing the with proper key the decryption of all the files***
 
 
 **Detection**
 
-![detct1]()
-![detct2]()
-![detct2]()
+![03](https://github.com/sudo-zoro/ransomewareDetect/assets/85948202/a9831dce-c829-4da8-becc-a97ef1ccdf93)
+
+![04](https://github.com/sudo-zoro/ransomewareDetect/assets/85948202/59c54cb6-0033-4c63-aa07-9bc7f8f84d77)
+
+![05](https://github.com/sudo-zoro/ransomewareDetect/assets/85948202/3ecdf494-2de2-4c43-a37f-6fbb45d9e222)
+
 
 
 
