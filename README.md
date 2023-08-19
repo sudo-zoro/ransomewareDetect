@@ -1,4 +1,4 @@
-# Encrypt Ransomeware
+# Encrypt Ransomware
 
 The project is based on detection of encryption ransomware. Using the python and its GUI packages.
 
